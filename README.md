@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Haynes Howe</h1>
 <h3 align="center">A passionate python developer from Ribeirão Preto - Brazil</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerossb" alt="zerossb" /> </p>
 
 - 🔭 I’m currently working on [NAVE | Bild & Vitta](https://github.com/bildvitta)
 
@@ -15,13 +14,9 @@
 - ⚡ Fun fact **Pizza and Coffee Lover**
 
 <p align="center">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" height="60"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="60"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" height="60"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" height="60"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="60"/>
+  <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green?logo=django&style=for-the-badge" alt="django" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green?logo=docker&style=for-the-badge" alt="docker" height="30"/>
+  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green?logo=python&style=for-the-badge" alt="python" height="30"/>
 </p>
 
 <p align="center">
